@@ -1,5 +1,5 @@
 // ============================================================================
-// LMS THẦY PHÚC - MAIN APP (FIXED VERSION)
+// LMS CÔ PHƯƠNG TOÁN - MAIN APP (FIXED VERSION)
 // Các sửa đổi:
 // 1. Chuyển tab 1 lần là nộp bài (thay vì 3 lần)
 // 2. Ẩn lý thuyết khi mở chuyên đề, chỉ hiện sau khi làm bài không đạt
